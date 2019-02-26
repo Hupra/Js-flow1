@@ -1,0 +1,12 @@
+{
+  "name": "Day_3_Promises_and_asyncawait_05_02_2019",
+  "version": "1.0.0",
+  "description": "",
+  "main": "promise1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
